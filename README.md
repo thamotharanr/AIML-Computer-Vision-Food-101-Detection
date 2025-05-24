@@ -16,9 +16,11 @@ This folder contains 50 images on each food types which is planned to train the 
 The following is a list of the specific files required for this model to work in Google Colab or Jupyter Notebook.
 
 ```bash
+Dataset/
 Food_101/
-AI-ML-Computer-Vision-Food-101-Detection.ipynb
+AIML-Computer-Vision-Food-101-Detection.ipynb
 ```
 
-- `` - Contains code base to build the AIMl food detection model.
+- `Dataset` - contains the detailed data points fo food images.
+- `AIML-Computer-Vision-Food-101-Detection.ipynb` - Contains code base to build the AIMl food detection model.
 -  `Food_101` — contains the image dataset which needs to train & test the model.
